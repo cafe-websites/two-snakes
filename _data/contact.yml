@@ -1,0 +1,14 @@
+location:
+  address: 63 Elgin St, Carlton VIC 3053
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.6665889844617!2d144.9724344!3d-37.7978527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad643087d4b8d15%3A0xf8fefea85ee1843f!2sTwo%20Snakes!5e0!3m2!1sen!2sau!4v1664437527974!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/twosnakestakeaway/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx
